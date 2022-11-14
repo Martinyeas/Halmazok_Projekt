@@ -1,0 +1,20 @@
+Halmaz (set):
+- rendezetlen (elemeknek nincs indexe)
+ - egy elem csak egyszer szerepelhet
+- többféle típust tárolhat egyszerre is
+- a halmaz eleme maga nem változtatható meg
+halmaz létrehozása
+üres halmaz létrehozása
+ebed = {}  <- SZÓTÁRT hoz létre!!!
+bejárható gyûjteménybõl, pl. listából
+egy elem hozzáadása
+{'tea', 'vaj', 'lekvár', 'piritós'}
+egy nem meghatározott elem eltávolításaegy bizonyos elem eltávolítása
+ha nincs ilyen elem, akkor hibát eredményez
+metszet
+{'víz'}
+unio
+{'tea', 'vaj', 'pirítós', 'víz', 'kenyér', 'halászlé'}
+különbség
+{'tea', 'vaj', 'pirítós'}
+csak az egyikben, vagy csak a másikban/n{'tea', 'vaj', 'pirítós', 'kenyér', 'halászlé'}
