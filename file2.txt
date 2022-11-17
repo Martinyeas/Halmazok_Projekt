@@ -1,0 +1,17 @@
+{'apple', 'orange', 'cherry', 'banana'} 
+set() 
+{'apple', 'cherry', 'banana'} 
+{'cherry', 'banana'} 
+{'cherry', 'banana'} 
+{'apple', 'cherry'} 
+{'apple'} 
+{'apple'} 
+True 
+True 
+True 
+{'cherry', 'banana'} 
+{'apple', 'cherry'} 
+{'cherry', 'banana', 'microsoft', 'google'} 
+{'cherry', 'banana', 'microsoft', 'google'} 
+{'apple', 'microsoft', 'google', 'cherry', 'banana'} 
+{'apple', 'microsoft', 'google', 'cherry', 'banana'} 
