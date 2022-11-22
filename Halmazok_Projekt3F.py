@@ -146,3 +146,6 @@ x.update(y)
 
 x = str(x)+" \n"
 file.write(x)
+
+print('kör')
+print('futa')
